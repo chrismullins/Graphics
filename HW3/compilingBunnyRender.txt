@@ -1,0 +1,1 @@
+g++ bunnyRender.cxx -o bunnyRender -lX11 -lglut -lGLU -lGLEW
